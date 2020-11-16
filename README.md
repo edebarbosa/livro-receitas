@@ -1,6 +1,6 @@
 # Livro de receita
 
-#### Olá bem vindo ao livro de receita
+### Olá bem vindo ao livro de receita :
 
 - Bolo de Fubá
-- Bolo de Milho
+- Bolo de Milho 
